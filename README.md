@@ -25,7 +25,7 @@
 ## Industry Application  
 
 Implemented **advanced analytical techniques** across different banks to support **credit decision-making**, improving risk assessment and identifying clients with a higher likelihood of default.  
-
+These techniques were developed and presented by Quatiplus Consulting.
 ---
 
 ## ✨ About Me  
