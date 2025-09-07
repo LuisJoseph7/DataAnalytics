@@ -31,9 +31,6 @@ These techniques were developed and presented by Quatiplus Consulting.
 ## ✨ About Me  
 
 **Luis Rivero** – Business Intelligence & Data Science Specialist  
-- 📈 Expertise: KPIs, OKRs, Dashboards, Predictive Modeling  
-- ⚡ Passion: Turning data into actionable insights and opportunities  
-
-www.linkedin.com/in/luis-joseph-rivero-salguedo-b73878aa
+[LinkedIn](https://www.linkedin.com/in/luis-joseph-rivero-salguedo-b73878aa) | [GitHub](https://github.com/LuisJoseph7)
 
 ---
