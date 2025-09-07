@@ -1,36 +1,23 @@
-# 📊 Portfolio of Projects – Luis Rivero  
+# Credit Scoring with K-NN and Random Forest
 
-**Business Intelligence Specialist and Data Scientist** with experience in developing KPIs, OKRs, executive dashboards, and predictive models to drive data-driven decision-making.  
+This project focuses on developing a **Credit Scoring model** to predict the probability of default.  
+The analysis and modeling were performed using **R in RStudio**.
 
----
+## Project Highlights
 
-## Featured Projects  
+- **K-Nearest Neighbors (K-NN)** – Classification model to predict credit risk based on similarity between clients.  
+- **Random Forest** – Ensemble method for more robust and accurate credit scoring.  
+- **Credit Risk Insights** – Identify high-risk clients and support better credit decision-making.
 
-- [📊 **Credit Scoring Model**](#)  
-  A statistical and machine learning model designed to estimate the probability of default, supporting better credit allocation and risk management.  
+## Tools & Libraries
 
-- [📊 **Customer Segmentation with K-Means & K-NN**](#)  
-  Application of clustering and classification techniques to identify customer groups and optimize marketing strategies.  
+- **R** – Core programming language  
+- **RStudio** – Integrated development environment  
+- **Caret** – Machine learning framework in R  
+- **Dplyr & Tidyverse** – Data manipulation and preprocessing  
 
----
-
-## Code & Tools  
-
-- All scripts are implemented in **R (RStudio)** and **Python**.  
-- Notebooks available in **Google Colab** and **Databricks**.  
-- Dashboards created with **Power BI**.  
-
----
-
-## Industry Application  
-
-Implemented **advanced analytical techniques** across different banks to support **credit decision-making**, improving risk assessment and identifying clients with a higher likelihood of default.  
-These techniques were developed and presented by Quatiplus Consulting.
----
-
-## ✨ About Me  
-
+## Author
+**Quantiplus cunsulting**
 **Luis Rivero** – Business Intelligence & Data Science Specialist  
 [LinkedIn](https://www.linkedin.com/in/luis-joseph-rivero-salguedo-b73878aa) | [GitHub](https://github.com/LuisJoseph7)
 
----
