@@ -17,7 +17,7 @@ The analysis and modeling were performed using **R in RStudio**.
 - **Dplyr & Tidyverse** – Data manipulation and preprocessing  
 
 ## Author
-**Quantiplus cunsulting**
+**Quantiplus cunsulting,**
 **Luis Rivero** – Business Intelligence & Data Science Specialist  
 [LinkedIn](https://www.linkedin.com/in/luis-joseph-rivero-salguedo-b73878aa) | [GitHub](https://github.com/LuisJoseph7)
 
